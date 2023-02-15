@@ -1,2 +1,3 @@
-# Suncomm-Firmware-5018-SDX62
-This firmware is applicable to 5018+SDX62
+# Latest-Suncomm-Firmware
+
+NO MORE HOTSPOT QUOTA LEAKAGE!!!
