@@ -13,7 +13,7 @@ STEP to install:
 
 2. Upload the firmware file in there
 
-3. After complete upgrading, Press Reset Button
+3. After complete upgrading, Reset (via Reset Button)
 <p align="left">
   <img src="https://github.com/afandiazmi/Suncomm-Firmware/blob/main/img/2.jpg" width="350" title="2">
 </p>
