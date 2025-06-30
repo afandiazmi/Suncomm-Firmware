@@ -1,0 +1,1 @@
+This is the latest firmware version. Please follow the prompts on the web page to upgrade. After the upgrade is complete, remember to reset, clear the browser cache, and refresh. Of course, you can power off and restart the router.
